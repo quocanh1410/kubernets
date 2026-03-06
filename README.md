@@ -1,4 +1,4 @@
-# kubenets-lý thuyết
+# kubernets-lý thuyết
 
 Kubernetes (K8s) là một nền tảng mã nguồn mở để tự động hóa việc triển khai, mở rộng và quản lý các ứng dụng containerized. Nó hoạt động dựa trên một cụm máy chủ (cluster) và tự động hóa việc quản lý các ứng dụng, tối ưu hóa tài nguyên, theo dõi và tự phục hồi khi có sự cố. Kubernetes giúp giảm thiểu các tác vụ thủ công phức tạp, quản lý kết nối mạng ổn định và mở rộng quy mô theo nhu cầu. 
 Cơ chế hoạt động của Kubernetes:
